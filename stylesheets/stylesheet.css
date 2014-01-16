@@ -365,8 +365,16 @@ Full-Width Styles
 #footer_wrap {
   background: #212121;
 }
+ 
+.thumbnail {
+  float:left;
+  margin:5px;
+}
 
-
+.text_line {
+  clear:both;
+  margin-bottom:2px;
+}
 
 /*******************************************************************************
 Small Device Styles
